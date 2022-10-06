@@ -1,3 +1,3 @@
 provider "ibm" {
-  region                = "${var.ibmcloud_region}" 
+  region = "${var.ibmcloud_region}" 
 }
